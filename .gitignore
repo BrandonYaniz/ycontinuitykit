@@ -1,0 +1,9 @@
+.DS_Store
+
+# Xcode user state
+xcuserdata/
+*.xcuserstate
+
+# Local SwiftPM/Xcode build output
+.build/
+DerivedData/
